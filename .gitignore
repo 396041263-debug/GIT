@@ -1,0 +1,21 @@
+# --- Windows ---
+Thumbs.db
+Desktop.ini
+$RECYCLE.BIN/
+
+# --- IDE / Editor ---
+.vscode/
+.idea/
+*.suo
+*.user
+*.userprefs
+
+# --- Node ---
+node_modules/
+npm-debug.log*
+
+# --- Python ---
+__pycache__/
+*.py[cod]
+.venv/
+venv/
